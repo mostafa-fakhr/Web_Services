@@ -1,0 +1,7 @@
+{
+    "autoload":{
+        "files":["config.php"],
+        "classmap":["Model/Weather.php", "Model/Weather_Interface.php"]
+
+    }
+}
